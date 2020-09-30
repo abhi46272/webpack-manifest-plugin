@@ -67,7 +67,7 @@ By default the plugin will emit `manifest.json` to your output directory. Can ov
 Type: `String`
 Default: `output.publicPath`
 
-A path prefix that will be added to values of the manifest.
+A path prefix that will be added to the values of the manifest.
 
 ### `options.basePath`
 
